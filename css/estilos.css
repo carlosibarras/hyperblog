@@ -1,5 +1,18 @@
 body{
-    text-align: center;
-    color: palevioletred;
+    text-align: left;
+    color: #333;
     font-family: arial;
+    margin: 0;
+    padding: 0;
+}
+#container{
+    width: 50%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid rgb(74, 224, 137);
+    margin: 0 auto;
+}
+#container h1{
+    font-size: 20px;
+    color: red;
 }
